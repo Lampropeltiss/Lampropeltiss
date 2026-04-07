@@ -8,9 +8,7 @@
 ### Обо мне
 Backend-разработчик на Python с высшим техническим образованием. Заканчиваю курс по направлению Fullstack-разработка на Python.
 
-### Статистика
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Lampropeltiss&show_icons=true&theme=radical)
+<br>
 
 # Мой стек:
 
